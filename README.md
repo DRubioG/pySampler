@@ -18,4 +18,4 @@ This a DAC simulator.
 
 ### Others examples
 
-1[DAC image 2](./images/Figure_2.png)
+![DAC image 2](./images/Figure_2.png)
